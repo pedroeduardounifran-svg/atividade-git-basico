@@ -1,4 +1,4 @@
-# \# Projeto de Murilo e Pedro
+# Projeto de Pedro e Murilo
 
 Projeto fictício criado por Pedro e Murilo para a atividade avaliativa de Git/GitHub.
 
