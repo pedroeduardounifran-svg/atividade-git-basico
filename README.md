@@ -1,6 +1,6 @@
-﻿# Atividade de Git em Grupo
+# Projeto de Pedro
 
-Projeto fictício criado por Pedro e Murilo para a atividade avaliativa de Git/GitHub.
+Projeto fict�cio criado por Pedro e Murilo para a atividade avaliativa de Git/GitHub.
 
 ## Integrantes
 - Pedro
